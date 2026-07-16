@@ -1,6 +1,6 @@
 # 🦀 rust-http-server
 
-[![CI](https://github.com/YOUR_USERNAME/rust-http-server/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/rust-http-server/actions/workflows/ci.yml)
+[![CI](https://github.com/Nebsik/rust-http-server/actions/workflows/ci.yml/badge.svg)](https://github.com/Nebsik/rust-http-server/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Rust](https://img.shields.io/badge/rust-2021_edition-orange.svg)](https://www.rust-lang.org/)
 
@@ -18,7 +18,7 @@ A tiny multithreaded HTTP server written in **pure Rust** — zero dependencies,
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rust-http-server.git
+git clone https://github.com/Nebsik/rust-http-server.git
 cd rust-http-server
 cargo run
 ```
