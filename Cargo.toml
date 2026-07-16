@@ -1,0 +1,12 @@
+[package]
+name = "rust-http-server"
+version = "0.1.0"
+edition = "2021"
+description = "A tiny multithreaded HTTP server written in pure Rust with no dependencies"
+license = "MIT"
+repository = "https://github.com/YOUR_USERNAME/rust-http-server"
+readme = "README.md"
+keywords = ["http", "server", "web"]
+categories = ["web-programming::http-server"]
+
+[dependencies]
